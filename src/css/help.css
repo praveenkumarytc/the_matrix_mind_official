@@ -1,0 +1,29 @@
+.card-color{
+    background-color: #6b7af1;
+
+}
+.my-title p{
+    font-size: 21px;
+    font-weight: 700;
+    color: #f7f8fe;
+}
+.my-title h1{
+    font-size: 65px;
+    font-weight: 700;
+    color: #f7f8fe;
+}
+.card-heading-content{
+    color: #f7f8fe;
+}
+.card-heading-content i{
+    font-size: 40px;
+    margin: 1rem 0px;
+    font-weight: 700;
+    color: #242323;
+}
+.card-heading-content h3{
+    font-size: 35px;
+}
+.card-heading-content p{
+    font-size: 19px;
+}

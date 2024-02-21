@@ -1,0 +1,15 @@
+.accordion-button:focus{
+    border-color: none;
+    box-shadow: none;
+}
+
+.accordion-button:not(.collapsed) {
+    background-color: transparent !important;
+    box-shadow: none !important; 
+    color: inherit !important; 
+}
+
+.accordion-item {
+    box-shadow: none;
+}
+

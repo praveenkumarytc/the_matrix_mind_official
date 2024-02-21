@@ -1,0 +1,47 @@
+.heading-ctnt {
+    font-size: 90px;
+    color: #f7f8fe;
+}
+.heading-card {
+    background-color: #6b7af1;
+}
+.heading-btn {
+    padding: 0.6rem 2.3rem;
+    border: none;
+    background-color:white;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}  
+.heading-btn:hover{
+    background-color: #000;
+    transform: scale(1.08);
+    color: white;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.heading-txt {
+    font-size: 33px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    color: #f7f8fe;
+}
+.left-heading h3{
+    font-size: 26px;
+    margin-bottom: 1rem;
+    color:#aca295;
+}
+.left-heading h1{
+    font-size: 65px;
+    margin-bottom: 1rem;
+    color: #6b7af1;
+}
+.right-heading h4{
+    letter-spacing: 0.60px;
+}
+.project-detail h1{
+    font-size: 55px;
+}
+.project-detail p{
+    font-size: 25px;
+}

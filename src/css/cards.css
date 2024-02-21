@@ -1,0 +1,39 @@
+.container{
+    display: flex;
+    flex-direction: column;
+}
+.faq-heading h1{
+    font-size: 72px;
+}
+.faq-heading p{
+    font-size: 24px;
+}
+.plans-btn {
+    
+display: inline-block;
+outline: none;
+cursor: pointer;
+font-size: 20px;
+line-height: 1;
+border-radius: 500px;
+transition-property: background-color,border-color,color,box-shadow,filter;
+transition-duration: .3s;
+border: 1px solid transparent;
+letter-spacing: 2px;
+min-width: 160px;
+white-space: normal;
+font-weight: 700;
+text-align: center;
+padding: 1rem 0.1rem;
+color: #fff;
+background-color:  #6b7af1;
+height: 55px;
+}
+.plans-btn:hover{
+transform: scale(1.04);
+background-color: #000;
+color: #fff;
+}
+.plans-card{
+    background-color: #fffcf0;
+}

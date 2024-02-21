@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/the_matrix_mind_official/static/css/main.3b2140cc.css",
-    "main.js": "/the_matrix_mind_official/static/js/main.366a55a3.js",
-    "static/js/787.a8e68d72.chunk.js": "/the_matrix_mind_official/static/js/787.a8e68d72.chunk.js",
-    "index.html": "/the_matrix_mind_official/index.html",
-    "main.3b2140cc.css.map": "/the_matrix_mind_official/static/css/main.3b2140cc.css.map",
-    "main.366a55a3.js.map": "/the_matrix_mind_official/static/js/main.366a55a3.js.map",
-    "787.a8e68d72.chunk.js.map": "/the_matrix_mind_official/static/js/787.a8e68d72.chunk.js.map"
+    "main.css": "/static/css/main.3b2140cc.css",
+    "main.js": "/static/js/main.9e7c4ebf.js",
+    "static/js/787.a8e68d72.chunk.js": "/static/js/787.a8e68d72.chunk.js",
+    "index.html": "/index.html",
+    "main.3b2140cc.css.map": "/static/css/main.3b2140cc.css.map",
+    "main.9e7c4ebf.js.map": "/static/js/main.9e7c4ebf.js.map",
+    "787.a8e68d72.chunk.js.map": "/static/js/787.a8e68d72.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3b2140cc.css",
-    "static/js/main.366a55a3.js"
+    "static/js/main.9e7c4ebf.js"
   ]
 }
